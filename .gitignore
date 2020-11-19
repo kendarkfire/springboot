@@ -9,3 +9,25 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+*/bin/
+/bin/
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+*/.settings/**
+.loadpath
